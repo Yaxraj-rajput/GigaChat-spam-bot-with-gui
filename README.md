@@ -17,12 +17,13 @@ Duh! Thats what i was supposed to ask, nvm GigaChat looks better than other old 
 - Greatest UI ever on spammer
 
 ## How to use
-Step 1: Switch on ur pc
-Step 2: Download project file from this repo
-Step 3: Open up file in Visual Studio
-Step 4: Run build
-Step 5: Enter message
-Step 6: Start spammer with start button
+
+- Step 1: Switch on ur pc
+- Step 2: Download project file from this repo
+- Step 3: Open up file in Visual Studio
+- Step 4: Run build
+- Step 5: Enter message
+- Step 6: Start spammer with start button
 
 ## Use SHIFT + Q to start spammer even in background and SHIFT + E to stop.
 
